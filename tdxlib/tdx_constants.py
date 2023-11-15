@@ -17,7 +17,7 @@ component_ids = {
 
 
 default_config = {
-    'org_name': 'Thing',
+    'org_name': 'Thingasd',
     'sandbox': True,
     'auth_type': 'password',
     # 'username': '',
