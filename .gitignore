@@ -18,3 +18,4 @@ MANIFEST
 testing_*
 README
 TDXLib.egg-info/
+tdxlib/tdx_constants.py
