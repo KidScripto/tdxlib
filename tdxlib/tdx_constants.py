@@ -17,7 +17,7 @@ component_ids = {
 
 
 default_config = {
-    'org_name': 'Test3',
+    'org_name': 'Thing',
     'sandbox': True,
     'auth_type': 'password',
     # 'username': '',
