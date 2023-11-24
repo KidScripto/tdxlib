@@ -443,6 +443,9 @@ class TDXIntegration:
         """
         return self.get_tdx_item_by_id('locations', location_id)
 
+    def get_knowledgebase_by_id(self, knowledgebase_id: int) -> dict:
+        return self.get_tdx_item_by_id('knowledgebase', knowledgebase_id)
+
     def get_account_by_id(self, account_id: int) -> dict:
         """
         Gets an account by the account ID.
@@ -930,3 +933,6 @@ class TDXIntegration:
     # TODO: edit_custom_attribute_choice():
 
     # TODO: generate_custom_attributes()
+
+    ######### Knowledge base ###########
+    # TODO: errtang
